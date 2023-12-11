@@ -1,5 +1,5 @@
 # Azure-Flask-App
-In this individual Project 4, a ** publicly accessible auto-scaling container using Azure App Services and Flask** has been implemented.
+In this individual Project 4, a **publicly accessible auto-scaling container using Azure App Services and Flask** has been implemented.
 
 Project dependencies, program sep up steps, and data-driven recommendation has been demonstrated in README.md.
 
