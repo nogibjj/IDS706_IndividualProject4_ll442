@@ -4,7 +4,6 @@ This readme will walk you through creating an auto scaling app using GitHub, Doc
 ## Step One Environment Set Up
 Set up your environment using GitHub Code Spaces and VScode.
 
-![Alt text](images/image-6.png)
 
 ## Step Two Flask App
 Build a basic flask app (critical to have host and port number). Feel free to start with mine but there are also plenty of more sophisticated ones online, the most important thing to me was getting the plumbing sorted.
