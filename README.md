@@ -83,6 +83,27 @@ In this project, VSCode is used for local app development. Necessary packages ar
 [ids706individualproject4.azurewebsites.net](https://ids706individualproject4.azurewebsites.net)
 
 
-## Recommendations
+## Summary & Recommendations
+
+### Project Summary
+
+This project demonstrates a scalable Flask web application deployed on Azure App Services. It highlights efficient load handling and operational flexibility.
+
+- Key Achievements
+  
+  - Auto-scaling Capability: Ensures optimal performance under varying load conditions.
+    
+  - Cloud-based Efficiency: Azure deployment offers high availability and reduces infrastructure overhead.
+    
+  - Cost-Effective Scalability: Auto-scaling minimizes operational costs, aligning resources with demand.
+    
+  - Improved User Experience: Consistent performance even during peak usage enhances user satisfaction.
+
+### Recommendations
+
+- Enhance Monitoring: Implement advanced monitoring tools for proactive performance management.
+
+- Explore Additional Azure Services: Investigate Azure's other services, like Azure Functions, for potential enhancements.
+
 
 ## Video Demo
