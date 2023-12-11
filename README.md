@@ -80,7 +80,7 @@ In this project, VSCode is used for local app development. Necessary packages ar
 
   - Public URL
 ![Azure_url](images/Azure_url.png)
-[ids706individualproject4.azurewebsites.net](ids706individualproject4.azurewebsites.net)
+[ids706individualproject4.azurewebsites.net](https://ids706individualproject4.azurewebsites.net)
 
 
 ## Recommendations
