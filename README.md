@@ -107,3 +107,4 @@ This project demonstrates a scalable Flask web application deployed on Azure App
 
 
 ## Video Demo
+For more information about this project? [Press Me :D](https://youtu.be/PTc2jRxRrmU)
