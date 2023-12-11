@@ -59,26 +59,26 @@ In this project, VSCode is used for local app development. Necessary packages ar
 
 ### Step4: Set up Azure Services 
 
-1. Log into Azure, search app services and select create (web app)
+- Log into Azure, search app services and select create (web app)
 
-2. When creating the app, select Docker Container
+- When creating the app, select Docker Container
 
 ![Azure_dockercontainer](images/Azure_dockercontainer.png)
 
-3. When selecting the Docker container, point to the correct image tab.
+- When selecting the Docker container, point to the correct image tab.
 
 ![Azure_dockerhub](images/Azure_dockerhub.png)
 ![Azure_summary](images/Azure_summary.png)
 
 
-4. After deployment you'll need to go configuration and add "WEBSITES_PORT" with a value of 1918 (more below).
+- After deployment you'll need to go configuration and add "WEBSITES_PORT" with a value of 1918 (more below).
 
    This will allow your app to run on at the public URL provided by Azure.
 
-Website Port 
+  - Website Port 
 ![Azure_websiteport](images/Azure_websiteport.png)
 
-Public URL
+  - Public URL
 ![Azure_url](images/Azure_url.png)
 [ids706individualproject4.azurewebsites.net](ids706individualproject4.azurewebsites.net)
 
